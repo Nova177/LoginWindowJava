@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <username>Admin</username>
+        <password>admin123</password>
+    </user>
+    <user>
+        <username>Alex123</username>
+        <password>ComplexPass!2024</password>
+    </user>
+    <user>
+        <username>CaseyDelta</username>
+        <password>Delta_938@Secure</password>
+    </user>
+    <user>
+        <username>JordanSkye</username>
+        <password>Skye2023#Safe</password>
+    </user>
+    <user>
+        <username>Kai_Tech</username>
+        <password>Secure*7821</password>
+    </user>
+    <user>
+        <username>Morgan98</username>
+        <password>Mo98#2024$</password>
+    </user>
+    <user>
+        <username>RileyPilot</username>
+        <password>PilotRiley93!</password>
+    </user>
+    <user>
+        <username>SammyBlue</username>
+        <password>Blue2023_Sam</password>
+    </user>
+    <user>
+        <username>GeneratedName2044</username>
+        <password>1989_TaylorSwift</password>
+    </user>
+    <user>
+        <username>VickyPro</username>
+        <password>Pro*Vicky$732</password>
+    </user>
+    <user>
+        <username>Niklas</username>
+        <password>ThisPasswordISSAFE2032</password>
+    </user>
+</users>
